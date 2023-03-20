@@ -1,1 +1,1 @@
-ES6_basic project
+ES6_basic project.
